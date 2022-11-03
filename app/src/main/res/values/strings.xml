@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Я у мамы самый умный</string>
+    <string name="logo_text">Погода в Вашем городе</string>
+    <string name="hint">Введите Ваш город</string>
+    <string name="main_buttion">Нажми на меня</string>
+    <string name="no_user_input">Введите город</string>
+</resources>
